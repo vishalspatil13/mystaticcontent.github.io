@@ -1,0 +1,62 @@
+[
+  {
+    "categoryId": 1,
+    "name": "ay",
+    "description": "test description"
+  },
+  {
+    "categoryId": 2,
+    "name": "ee",
+    "description": "test description"
+  },
+  {
+    "categoryId": 3,
+    "name": "igh",
+    "description": "test description"
+  },
+  {
+    "categoryId": 4,
+    "name": "ow",
+    "description": "test description"
+  },
+  {
+    "categoryId": 5,
+    "name": "oo",
+    "description": "poo at the zoo"
+  },
+  {
+    "categoryId": 6,
+    "name": "oo",
+    "description": "test description"
+  },
+  {
+    "categoryId": 7,
+    "name": "ar",
+    "description": "test description"
+  },
+  {
+    "categoryId": 8,
+    "name": "or",
+    "description": "test description"
+  },
+  {
+    "categoryId": 9,
+    "name": "air",
+    "description": "test description"
+  },
+  {
+    "categoryId": 10,
+    "name": "ir",
+    "description": "test description"
+  },
+  {
+    "categoryId": 11,
+    "name": "ou",
+    "description": "test description"
+  },
+  {
+    "categoryId": 12,
+    "name": "oy",
+    "description": "test description"
+  }
+]
